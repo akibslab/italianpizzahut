@@ -1,0 +1,49 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+/* Menu Setion */
+#menu-section {
+    padding: 30px;
+}
+
+#menu-section .menu-tabs-button ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#menu-section .menu-tabs-button ul li {
+  padding: 5px 2.5px;
+}
+
+#menu-section .menu-tabs-button ul li a{
+  border: 1px solid transparent;
+  padding: 5px 8px;
+  border-radius: 5px;
+  background: #ff0000;
+  color: #fff;
+  text-decoration: none;
+}
+
+#menu-section .menu-tabs-button ul li a:hover{
+  background: #ff3333;
+}
+
+#menu-section .menu-tabs-box {
+  padding: 50px;
+}
+
+#menu-section .menu-tab h2{
+  margin-bottom: 40px;
+  text-align: center;
+  font-size: 36px;
+}
+
+#menu-section .menu-item {
+    margin-bottom: 40px;
+}
+
+#menu-section .menu-item h3 {
+    padding: 0;
+    margin-bottom: 5px;
+}
