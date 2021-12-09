@@ -1,9 +1,25 @@
+/* Header */
+.navbar-brand {
+  max-width: 100px;
+}
 
-/** ADD YOUR AWESOME CODES HERE **/
+.top-navbar .navbar .phone a {
+  color: #d65106;
+  font-size: 25px;
+}
+
+.top-navbar .navbar .phone a i {
+  margin-right: 5px;
+}
+
+.navbar-brand img {
+  max-width: 100%;
+}
 
 /* Menu Setion */
 #menu-section {
     padding: 30px;
+    background: #FEEFDA;
 }
 
 #menu-section .menu-tabs-button ul {
@@ -20,17 +36,27 @@
   border: 1px solid transparent;
   padding: 5px 8px;
   border-radius: 5px;
-  background: #ff0000;
+  background: #d65106;
   color: #fff;
   text-decoration: none;
 }
 
 #menu-section .menu-tabs-button ul li a:hover{
-  background: #ff3333;
+  background: #b5480b;
 }
 
 #menu-section .menu-tabs-box {
   padding: 50px;
+}
+
+#menu-section .menu-tab {
+  border: 2px solid #241D13;
+  padding: 50px 25px;
+  margin-bottom: 50px;
+}
+
+#menu-section .menu-tab:last-of-type {
+  margin-bottom: 0;
 }
 
 #menu-section .menu-tab h2{
@@ -46,4 +72,10 @@
 #menu-section .menu-item h3 {
     padding: 0;
     margin-bottom: 5px;
+    line-height: 1.4em !important;
+}
+
+#menu-section .menu-item p {
+    font-size: 14px;
+    line-height: 1.2em;
 }
