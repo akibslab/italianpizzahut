@@ -92,30 +92,34 @@
   padding: 0;
   margin-bottom: 5px;
   line-height: 1.4em !important;
+  font-weight: 600;
 }
 
 #menu-section span.price {
   color: #1f1f1f;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 #menu-section .menu-item h3 .inch {
   font-size: 14px;
   color: #d65106;
   font-style: italic;
+  font-weight: 400;
 }
 
 #menu-section .menu-item h3 .size {
   font-size: 14px;
   color: #d65106;
   font-style: italic;
+  font-weight: 400;
 }
 
 #menu-section .menu-item h3 .ratio {
   font-size: 14px;
   color: #d65106;
   font-style: italic;
+  font-weight: 400;
 }
 
 #menu-section .menu-item .discount {
@@ -132,7 +136,7 @@
 
 #menu-section .items-price .original-price {
     text-decoration: line-through #d65106 2px;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 #menu-section .item-text .percent {
