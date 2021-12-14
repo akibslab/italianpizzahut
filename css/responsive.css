@@ -82,7 +82,53 @@
 	.top-navbar .navbar{
 		border-radius: 0px 0px 50px 50px;
 	}
-	
+
+	#menu-section .menu-tabs-button ul li {
+		padding: 2px;
+	}
+
+	#menu-section .menu-tabs-button ul li a {
+		font-size: 10px;
+		padding: 2px 4px;
+	}
+
+	#menu-section .menu-tabs-box {
+	    padding: 0;
+	    margin-top: 25px;
+	}
+
+	#menu-section .menu-tab {
+	    border: 1px solid #241D13;
+	    padding: 25px 10px 10px;
+	    margin-bottom: 25px;
+	}
+
+	#menu-section .menu-tab h2 {
+		font-size: 20px;
+		margin-bottom: 20px;
+		font-size: 18px;
+		padding-bottom: 0;
+	}
+
+	#menu-section .menu-item p {
+		font-size: 12px;
+	}
+
+	#menu-section .menu-item h3 {
+		font-size: 16px;
+	}
+
+	#menu-section .menu-item {
+	    margin-bottom: 15px;
+	}
+
+	#menu-section .menu-item .discount {
+		margin-bottom: 10px;
+	}
+
+	#menu-section .item-text .percent {
+	    font-size: 17px;
+	}
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
 	
